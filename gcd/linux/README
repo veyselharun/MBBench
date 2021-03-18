@@ -1,0 +1,4 @@
+*greatest common divisor
+*using the command line,you can run it as follows
+*./gcd first_number second_number
+*You can change the program login data using first_number and second_number

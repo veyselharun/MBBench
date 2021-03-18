@@ -1,0 +1,6 @@
+*standart_deviation
+*if you want to put the data,do not using the command line for rtems version
+*if you want to put input for program,you can open source file and put the data
+*You can change the program login data using sample.txt
+*if you want run program for rtems version you can write necessarily command. 
+*this command :sparc-rtems5-run standard_deviation.exe

@@ -1,0 +1,4 @@
+*cesar algorithm
+*using the command line,you can run it as follows
+*./cesar word the_number_of_characters_to_be_replaced
+*You can change the program login data using word or the number of characters to be replaced

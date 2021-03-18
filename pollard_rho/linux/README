@@ -1,0 +1,4 @@
+*pollard rho algorithm
+*using the command line,you can run it as follows
+*./pollard number
+*You can change the program login data using number

@@ -1,0 +1,6 @@
+Huffman Code Algorithm
+
+Usage
+./huffman number_of_characters_to_be_retrieved text
+
+Note: Do not include spaces in text

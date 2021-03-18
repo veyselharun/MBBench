@@ -1,0 +1,8 @@
+*boot's algorithm
+*multiplication of two signed binary numbers
+*if you want to put the data,do not using the command line for rtems version
+*if you want to put input for program,you can open source file and put the data
+*number1 number2
+*You can change the program login data using number1 and number2
+*if you want run program for rtems version you can write necessarily command. 
+*this command :sparc-rtems5-run booth.exe
