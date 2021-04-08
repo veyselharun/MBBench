@@ -1,11 +1,11 @@
 
-# MBBench: A WCET Benchmark Suite
+# MBBench
 
-MBBench is a benchmark suite aimed to help WCET research. It is a collection of programs which can be used to compare real-time platforms, WCET tools and techniques. It is spesifically focused on the benchmarking of measurement-based WCET analysis tools and techiques. All programs in the benchmark suite is open source and licensed under the MIT license.
+MBBench is a worst-case execution time (WCET) benchmark suite. Its main aim is to help WCET research. It is a collection of programs which can be used to compare real-time platforms, WCET tools and techniques. It is spesifically focused on the benchmarking of measurement-based WCET analysis tools and techiques. All programs in the benchmark suite is open source.
 
 ## Citing MBBench
 
-The paper of MBBench can be accessed through the link below.
+The paper of MBBench titled "MBBench: A WCET Benchmark Suite" can be accessed through the link below.
 
 http://saucis.sakarya.edu.tr/en/pub/issue/54022/705777
 
